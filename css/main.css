@@ -224,6 +224,13 @@ button {
   padding-bottom: 60px;
 }
 
+.Opportunities {
+  font-family: "Nunito Sans";
+  font-weight: 800;
+  font-size: 50px;
+  line-height: 50px;
+}
+
 .littleBlock {
   background-color: var(--vert);
   border: solid 1px black;
@@ -279,21 +286,3 @@ footer h3 {
   color: white;
   font-family: "Nunito Sans";
 }
-/* Transform */
-
-position: absolute;
-width: 388px;
-height: 50px;
-left: 20px;
-top: 2118px;
-
-font-family: "Nunito Sans";
-font-style: normal;
-font-weight: 800;
-font-size: 50px;
-line-height: 50px;
-/* identical to box height, or 100% */
-text-align: center;
-text-transform: uppercase;
-
-color: #313131;
