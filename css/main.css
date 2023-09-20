@@ -59,6 +59,7 @@ h1 {
 h1 .chiffretitle {
   text-transform: uppercase;
   font-family: "Noto Serif", serif;
+  font-weight: 300;
 }
 
 .headerMauve p {
