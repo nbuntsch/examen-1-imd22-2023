@@ -96,6 +96,14 @@ h2 {
 .container {
   display: flex;
   margin-bottom: 30px;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.containerWhatson {
+  display: flex;
+  margin-bottom: 30px;
+  justify-content: center;
 }
 
 .programme {
@@ -104,10 +112,14 @@ h2 {
 
 .imgWatson {
   border-bottom: solid 7px var(--mauve);
+  width: 188px;
+  height: 125px;
 }
 
 .containerDocu {
   border: 1px solid black;
+  width: 190px;
+  height: 170px;
 }
 
 .subtitle {
