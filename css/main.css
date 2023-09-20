@@ -278,25 +278,32 @@ footer h2 {
 
 .contact {
   margin-bottom: 112px;
+  margin-right: 10px;
+  margin-left: 10px;
 }
 
 h3 {
-  margin-bottom: 10px;
   color: black;
   text-align: center;
+  font-size: 13px;
 }
 
 .contact p {
   font-family: "Noto Serif";
   font-weight: 300;
-  font-size: 13px;
+  font-size: 11px;
   line-height: 18px;
   color: white;
   text-align: center;
-  margin: 20px;
 }
 
 footer h3 {
   color: white;
   font-family: "Nunito Sans";
+}
+
+.containerFooter {
+  display: flex;
+  margin-bottom: 30px;
+  justify-content: center;
 }
